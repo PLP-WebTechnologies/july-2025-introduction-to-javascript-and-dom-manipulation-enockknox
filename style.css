@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f3f3f3;
+}
+
+input, button {
+  padding: 8px;
+  margin: 5px 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+#user-section, #math-section, #loop-section {
+  margin-bottom: 30px;
+}
